@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/SUBOMI123/Wishlist/blob/main/Kapture%202023-09-11%20at%2021.57.01.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/SUBOMI123/Wishlist/blob/main/wishlist2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
